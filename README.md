@@ -7,7 +7,7 @@
     </h1>
 
 <img align="right" height="200px" width="350px" alt="GIF" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" />
-<p><em>Master’s Degree Graduate <a href="https://www.uis.edu/">University of Illinois| GPSI Scholar| Data Analyst</a></em></p>
+<p><em>Master’s Degree Graduate <a href="https://www.uis.edu/">University of Illinois</a>| GPSI Scholar| Data Analyst</em></p>
 
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-rohitkaushik-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/rohit-kaushik4/)
