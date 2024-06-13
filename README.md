@@ -138,10 +138,10 @@ const rohit = {
 <h3 align="left">Github Statistics</h3>
 <div align="center">
   <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <a href="https://github.com/Eva-Kaushik">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-kaushik&layout=compact&theme=vision-friendly-dark&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Eva-Kaushik's Top Languages" height="150px"/>
+    <a href="https://github.com/kaushikrohit004">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-kaushik&layout=compact&theme=vision-friendly-dark&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Rohit-Kaushik's Top Languages" height="150px"/>
     </a>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eva-Kaushik&custom_title=Eva's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Eva's Graph" height="150px"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushikrohit004&custom_title=Rohit's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Rohit's Graph" height="150px"/>
   </div>
 </div>
 
@@ -166,7 +166,7 @@ const rohit = {
         <a href="https://www.linkedin.com/in/rohit-kaushik4/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Eva Kaushik</a></p>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Rohit Kaushik</a></p>
 
 
 ![](https://i.imgur.com/G46LgYQ.png)
