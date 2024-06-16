@@ -168,7 +168,7 @@ const rohit = {
         <a href="https://www.linkedin.com/in/rohit-kaushik4/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Rohit Kaushik</a></p>
+<p align="right" > Created with 🧡 by Rohit Kaushik</a></p>
 
 
 ![](https://i.imgur.com/G46LgYQ.png)
