@@ -141,7 +141,7 @@ const rohit = {
 <div align="center">
   <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <a href="https://github.com/kaushikrohit004">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-kaushik&layout=compact&theme=vision-friendly-dark&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Rohit-Kaushik's Top Languages" height="150px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikrohit004&layout=compact&theme=vision-friendly-dark&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Rohit-Kaushik's Top Languages" height="150px"/>
     </a>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushikrohit004&custom_title=Rohit's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Rohit's Graph" height="150px"/>
   </div>
