@@ -16,14 +16,6 @@
 💼 Available for freelance projects in **Data Science, Machine Learning, and Analytics**  
 📧 Reach me at: **kaushikrohit2024@gmail.com**  
 
-### 📊 This week I spent my time on:
-```text
-Python       18 hrs 47 mins  ████████████████████▓░░░░   83.25 %
-Statistics   1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-Markdown     55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-JSON         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-CSS          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-
 ### ⚡ Tech Stack
 <p>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
