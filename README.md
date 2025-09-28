@@ -1,23 +1,22 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=0000FF&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Rohit+Kaushik" alt="Rohit Kaushik" /></a>
 </h1>
 
-
-
 <img align="right" height="200px" width="350px" alt="GIF" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" />
-<p><em>Data Analyst <a href="https://www.hanson-inc.com/">Hanson Professional Services Inc. </a>| Masters@University of Illinois | GPSI Scholar| Data Analyst</em></p>
 
+<p><em>Data Analyst <a href="https://www.hanson-inc.com/">Hanson Professional Services Inc.</a> | Masters @ University of Illinois | GPSI Scholar | Data Analyst</em></p>
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-rohitkaushik-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/rohit-kaushik4/)
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
-</a>
+### 📌 Freelance Work
+💼 Available for freelance projects in **Data Science, Machine Learning, and Analytics**  
+📧 Reach me at: **kaushikrohit2024@gmail.com**  
 
+### ⚡ Tech Stack
 <p>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -29,7 +28,6 @@
 <a href="https://matplotlib.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a>
 </p>
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
