@@ -9,7 +9,7 @@
 
 
 <img align="right" height="200px" width="350px" alt="GIF" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" />
-<p><em>Data Analyst <a href="https://www.uis.edu/">Hanson Professional Services Inc. </a>| Masters@University of Illinois | GPSI Scholar| Data Analyst</em></p>
+<p><em>Data Analyst <a href="https://www.hanson-inc.com/">Hanson Professional Services Inc. </a>| Masters@University of Illinois | GPSI Scholar| Data Analyst</em></p>
 
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-rohitkaushik-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/rohit-kaushik4/)
